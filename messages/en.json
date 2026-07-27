@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Our Services",
+    "projects": "References",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "subtitle": "Masonry Works · Prague",
+    "title": "LELE STAV",
+    "description": "We are an innovative construction company that builds not just houses, but stories. Your reliable partner in creating solid foundations, durable structures and spaces full of character.",
+    "cta_primary": "Our Services",
+    "cta_secondary": "References",
+    "stat1_value": "500+",
+    "stat1_label": "completed\nprojects",
+    "stat2_value": "15+",
+    "stat2_label": "years of\nexperience"
+  },
+  "marquee": [
+    "Construction A–Z",
+    "Tiles & Paving",
+    "Facade Works",
+    "Drywall",
+    "Electrical",
+    "Renovation",
+    "Plumbing",
+    "Heating"
+  ],
+  "about": {
+    "subtitle": "About Us",
+    "title": "Who are we?",
+    "description1": "We are a long-established, stable company specialising in all types of masonry and construction works. From tile and paving installation, drywall assembly, electrical works and facade finishing to full renovations, plumbing, heating and turnkey construction.",
+    "description2": "Our team consists exclusively of experienced professionals in their field. Every member is carefully selected based on skills, experience and passion for construction. Your projects are in the hands of experts with years of practice.",
+    "feature1_title": "Precision",
+    "feature1_desc": "Our work is our art. We uphold the highest quality standards so that every detail of your project is perfect.",
+    "feature2_title": "Years of Experience",
+    "feature2_desc": "With us you get not just a building, but years of accumulated expertise. Your project will be delivered with precision and deep professional knowledge.",
+    "feature3_title": "Reliability",
+    "feature3_desc": "We meet deadlines. With us you won't face unnecessary delays. Every project is a commitment we fully honour."
+  },
+  "services": {
+    "subtitle": "What we do",
+    "title": "Our Services",
+    "description": "We offer a complete range of construction services — from minor repairs to full project delivery. Every project is approached individually and with maximum care.",
+    "s1_title": "Construction A–Z",
+    "s1_desc": "Comprehensive construction solutions, whether you're planning a new build, renovation or repair. Covers all phases — from design to completion. From the first idea down to the last detail.",
+    "s2_title": "Tiles & Paving",
+    "s2_desc": "High-quality and precise tile and paving work. Thanks to years of experience and a professional approach we are ready to realise your project — whether a bathroom, living space or terrace.",
+    "s3_title": "Facade Works",
+    "s3_desc": "Every facade we create is unique. Our speciality is energy-efficient thermal insulation that improves the building's thermal properties, reduces heating costs and increases comfort.",
+    "learn_more": "Learn more",
+    "s4_title": "Electrical Works",
+    "s4_desc": "We carry out electrical installation work with maximum safety and precision. We also take care of elegant design solutions that fit perfectly into your interior.",
+    "s5_title": "Plumbing",
+    "s5_desc": "We install water supply systems with a focus on energy efficiency. Thanks to innovative water management solutions we significantly reduce your costs and guarantee reliable operation.",
+    "s6_title": "Heating",
+    "s6_desc": "Our heating systems are designed for maximum durability and efficiency. We use the latest technologies that minimise energy consumption while maintaining optimal temperature.",
+    "view_all": "All our services",
+    "back": "Back to Home"
+  },
+  "whyus": {
+    "subtitle": "Why choose us?",
+    "title": "Professional construction solutions for your projects",
+    "r1_num": "01",
+    "r1_title": "Experienced team",
+    "r1_desc": "A team of exclusively experienced professionals with years of practice. Every project you entrust to us is handled by true experts.",
+    "r2_num": "02",
+    "r2_title": "Quality guarantee",
+    "r2_desc": "Every piece of our work is backed by a quality and customer satisfaction guarantee. We use only proven materials and technologies.",
+    "r3_num": "03",
+    "r3_title": "On-time delivery",
+    "r3_desc": "We always deliver work on the agreed schedule. Your time is our priority and work without unnecessary delays is our standard."
+  },
+  "stats": {
+    "years": "Years on the market",
+    "projects": "Completed projects",
+    "clients": "Satisfied clients",
+    "workers": "Skilled workers"
+  },
+  "gallery": {
+    "subtitle": "Our projects",
+    "title": "Photos are our real work",
+    "view_all": "View all photos",
+    "back": "Back to Home"
+  },
+  "cta": {
+    "title": "Need turnkey construction services?",
+    "button": "Contact us"
+  },
+  "contact": {
+    "subtitle": "Get in touch",
+    "title": "Contact Us",
+    "address_label": "Address",
+    "address": "Korunní 2569/108, Vinohrady (Praha 10), 101 00 Prague",
+    "phone_label": "Phone",
+    "email_label": "E-mail",
+    "hours_label": "Working hours",
+    "hours": "Monday – Friday: 7:00 – 17:00",
+    "back": "Back to Home",
+    "form_title": "Send us a message",
+    "form_name_label": "Your name",
+    "form_name_placeholder": "John Smith",
+    "form_email_label": "Email",
+    "form_email_placeholder": "john@example.com",
+    "form_phone_label": "Phone",
+    "form_phone_placeholder": "+420 000 000 000",
+    "form_message_label": "Message",
+    "form_message_placeholder": "Tell us about your project...",
+    "form_submit": "Send message",
+    "form_success": "Thank you! We will get back to you as soon as possible.",
+    "form_contact_required": "Please provide at least an email or phone number."
+  },
+  "footer": {
+    "tagline": "Your reliable construction partner in Prague and the surrounding region.",
+    "company_title": "Company",
+    "services_title": "Our Services",
+    "contact_title": "Contact",
+    "copyright": "© 2026 LELE STAV s.r.o. All rights reserved.",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "s1": "Construction A–Z",
+    "s2": "Tiles & Paving",
+    "s3": "Facade Works",
+    "s4": "Drywall",
+    "s5": "Electrical",
+    "s6": "Renovation"
+  }
+}

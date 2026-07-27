@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "home": "Domů",
+    "services": "Naše služby",
+    "projects": "Reference",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "subtitle": "Kamenické práce · Praha",
+    "title": "LELE STAV",
+    "description": "Jsme inovativní stavební společnost, která nestaví jen domy, ale příběhy. Váš spolehlivý partner při vytváření pevných základů, trvanlivých konstrukcí a prostorů plných charakteru.",
+    "cta_primary": "Naše služby",
+    "cta_secondary": "Reference",
+    "stat1_value": "500+",
+    "stat1_label": "dokončených\nprojektů",
+    "stat2_value": "15+",
+    "stat2_label": "let\nzkušeností"
+  },
+  "marquee": [
+    "Výstavba od A do Z",
+    "Obklady a dlažba",
+    "Realizace fasád",
+    "Sádrokarton",
+    "Elektroinstalace",
+    "Rekonstrukce",
+    "Instalatérství",
+    "Topení"
+  ],
+  "about": {
+    "subtitle": "O společnosti",
+    "title": "Kdo jsme?",
+    "description1": "Jsme dlouhodobá, stabilní společnost specializující se na všechny druhy kamenických prací. Od pokládky obkladů a dlažby, montáže sádrokartonu, elektroinstalací, fasádních prací až po rekonstrukce, instalatérství, topení a výstavbu na klíč.",
+    "description2": "Náš tým tvoří výhradně zkušení profesionálové ve svém oboru. Každý člen je pečlivě vybírán na základě svých dovedností, zkušeností a vášně pro stavebnictví. Vaše projekty jsou v rukou expertů s mnohaletou praxí.",
+    "feature1_title": "Přesnost",
+    "feature1_desc": "Naše práce je naše umění. Dodržujeme nejvyšší standardy kvality, aby každý detail vaší stavby byl dokonalý.",
+    "feature2_title": "Letité zkušenosti",
+    "feature2_desc": "S námi získáte nejen stavbu, ale i mnohaletou zkušenost. Váš projekt bude proveden s přesností a odbornými znalostmi.",
+    "feature3_title": "Spolehlivost",
+    "feature3_desc": "Dodržujeme termíny. S námi nemusíte čelit zbytečným zpožděním. Každý projekt je pro nás závazek, který plně dodržíme."
+  },
+  "services": {
+    "subtitle": "Co umíme?",
+    "title": "Naše služby",
+    "description": "Nabízíme kompletní spektrum stavebních prací — od malých oprav po realizaci celých staveb. Každý projekt přistupujeme individuálně a s maximální péčí.",
+    "s1_title": "Výstavba od A do Z",
+    "s1_desc": "Komplexní stavební řešení, ať už plánujete novostavbu, rekonstrukci nebo opravu. Zahrnuje všechny fáze — od projektování po dokončení. Od první ideje až po každý detail.",
+    "s2_title": "Obklady a dlažba",
+    "s2_desc": "Vysoce kvalitní a přesná práce s obklady a dlažbou. Díky letitým zkušenostem a profesionálnímu přístupu jsme připraveni realizovat váš projekt — ať jde o koupelnu, obývací prostor nebo terasu.",
+    "s3_title": "Realizace fasád",
+    "s3_desc": "Každá námi vytvořená fasáda je jedinečná. Naší specialitou je energeticky úsporná tepelná izolace, která zvyšuje tepelné vlastnosti budovy, snižuje náklady na vytápění a zvyšuje komfort.",
+    "learn_more": "Více informací",
+    "s4_title": "Elektroinstalace",
+    "s4_desc": "Elektroinstalační práce s maximální bezpečností a precizností. Postaráme se také o elegantní designová řešení, která dokonale zapadnou do vašeho interiéru.",
+    "s5_title": "Instalatérství",
+    "s5_desc": "Instalujeme vodovodní systémy s důrazem na energetickou úspornost. Díky inovativním řešením v oblasti hospodaření s vodou výrazně snížíme vaše náklady a zaručíme spolehlivý provoz.",
+    "s6_title": "Topení",
+    "s6_desc": "Naše topné systémy jsou navrženy pro maximální trvanlivost a efektivitu. Využíváme nejmodernější technologie, které minimalizují spotřebu energie při zachování optimální teploty.",
+    "view_all": "Všechny naše služby",
+    "back": "Zpět na úvod"
+  },
+  "whyus": {
+    "subtitle": "Proč si vybrat nás?",
+    "title": "Profesionální stavební řešení pro vaše projekty",
+    "r1_num": "01",
+    "r1_title": "Zkušený tým odborníků",
+    "r1_desc": "Tým výhradně zkušených profesionálů s lety praxe v oboru. Každý projekt svěřujete do rukou skutečných expertů.",
+    "r2_num": "02",
+    "r2_title": "Záruka kvality",
+    "r2_desc": "Každá naše práce je podložena zárukou kvality a spokojenosti zákazníka. Používáme jen ověřené materiály a technologie.",
+    "r3_num": "03",
+    "r3_title": "Dodržení termínů",
+    "r3_desc": "Vždy dodáváme práce v dohodnutém termínu. Váš čas je pro nás priorita a práce bez zbytečných průtahů je naším standardem."
+  },
+  "stats": {
+    "years": "Let na trhu",
+    "projects": "Dokončených projektů",
+    "clients": "Spokojených zákazníků",
+    "workers": "Odborných pracovníků"
+  },
+  "gallery": {
+    "subtitle": "Naše projekty",
+    "title": "Fotografie jsou naše skutečné práce",
+    "view_all": "Zobrazit všechny fotografie",
+    "back": "Zpět na úvod"
+  },
+  "cta": {
+    "title": "Potřebujete stavební práce na klíč?",
+    "button": "Kontaktujte nás"
+  },
+  "contact": {
+    "subtitle": "Kontaktujte nás",
+    "title": "Kontaktujte nás",
+    "address_label": "Adresa",
+    "address": "Korunní 2569/108, Vinohrady (Praha 10), 101 00 Praha",
+    "phone_label": "Telefon",
+    "email_label": "E-mail",
+    "hours_label": "Pracovní hodiny",
+    "hours": "Pondělí – Pátek: 7:00 – 17:00",
+    "back": "Zpět na úvod",
+    "form_title": "Napište nám",
+    "form_name_label": "Vaše jméno",
+    "form_name_placeholder": "Jan Novák",
+    "form_email_label": "E-mail",
+    "form_email_placeholder": "jan@priklad.cz",
+    "form_phone_label": "Telefon",
+    "form_phone_placeholder": "+420 000 000 000",
+    "form_message_label": "Zpráva",
+    "form_message_placeholder": "Řekněte nám o svém projektu...",
+    "form_submit": "Odeslat zprávu",
+    "form_success": "Děkujeme! Ozveme se vám co nejdříve.",
+    "form_contact_required": "Zadejte prosím alespoň e-mail nebo telefon."
+  },
+  "footer": {
+    "tagline": "Váš spolehlivý partner ve stavebnictví v Praze a okolí.",
+    "company_title": "Společnost",
+    "services_title": "Naše služby",
+    "contact_title": "Kontakt",
+    "copyright": "© 2026 LELE STAV s.r.o. Všechna práva vyhrazena.",
+    "terms": "Obchodní podmínky",
+    "privacy": "Ochrana soukromí",
+    "s1": "Výstavba od A do Z",
+    "s2": "Obklady a dlažba",
+    "s3": "Realizace fasád",
+    "s4": "Sádrokarton",
+    "s5": "Elektroinstalace",
+    "s6": "Rekonstrukce"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "services": "Leistungen",
+    "projects": "Referenzen",
+    "contact": "Kontaktieren Sie uns"
+  },
+  "hero": {
+    "subtitle": "Steinmetzarbeiten · Prag",
+    "title": "LELE STAV",
+    "description": "Wir sind ein innovatives Bauunternehmen, das nicht nur Häuser, sondern Geschichten baut. Ihr zuverlässiger Partner für solide Fundamente, langlebige Konstruktionen und Räume voller Charakter.",
+    "cta_primary": "Unsere Leistungen",
+    "cta_secondary": "Referenzen",
+    "stat1_value": "500+",
+    "stat1_label": "abgeschlossene\nProjekte",
+    "stat2_value": "15+",
+    "stat2_label": "Jahre\nErfahrung"
+  },
+  "marquee": [
+    "Bau von A bis Z",
+    "Fliesen & Pflaster",
+    "Fassadenarbeiten",
+    "Trockenbau",
+    "Elektroinstallation",
+    "Renovierung",
+    "Sanitär",
+    "Heizung"
+  ],
+  "about": {
+    "subtitle": "Über uns",
+    "title": "Wer sind wir?",
+    "description1": "Wir sind ein langjährig etabliertes, stabiles Unternehmen, das sich auf alle Arten von Steinmetz- und Bauarbeiten spezialisiert hat. Von der Verlegung von Fliesen und Pflaster, dem Trockenbauausbau, Elektroinstallationen und Fassadenarbeiten bis hin zu Renovierungen, Sanitärarbeiten, Heizungsinstallationen und schlüsselfertigem Bauen.",
+    "description2": "Unser Team besteht ausschließlich aus erfahrenen Fachleuten auf ihrem Gebiet. Jedes Mitglied wird sorgfältig nach Fähigkeiten, Erfahrung und Leidenschaft für das Bauwesen ausgewählt. Ihre Projekte befinden sich in den Händen von Experten mit langjähriger Praxis.",
+    "feature1_title": "Präzision",
+    "feature1_desc": "Unsere Arbeit ist unsere Kunst. Wir halten höchste Qualitätsstandards ein, damit jedes Detail Ihres Projekts perfekt ist.",
+    "feature2_title": "Jahrelange Erfahrung",
+    "feature2_desc": "Mit uns erhalten Sie nicht nur ein Gebäude, sondern auch jahrelange Expertise. Ihr Projekt wird mit Präzision und fundiertem Fachwissen ausgeführt.",
+    "feature3_title": "Zuverlässigkeit",
+    "feature3_desc": "Wir halten Termine ein. Mit uns müssen Sie keine unnötigen Verzögerungen befürchten. Jedes Projekt ist für uns eine Verpflichtung, die wir vollständig erfüllen."
+  },
+  "services": {
+    "subtitle": "Was wir können",
+    "title": "Unsere Leistungen",
+    "description": "Wir bieten ein komplettes Spektrum an Bauleistungen — von kleinen Reparaturen bis zur Realisierung ganzer Objekte. Jedes Projekt gehen wir individuell und mit größter Sorgfalt an.",
+    "s1_title": "Bau von A bis Z",
+    "s1_desc": "Umfassende Baulösungen, egal ob Sie einen Neubau, eine Renovierung oder eine Reparatur planen. Alle Phasen inbegriffen — von der Planung bis zur Fertigstellung. Von der ersten Idee bis zum letzten Detail.",
+    "s2_title": "Fliesen & Pflaster",
+    "s2_desc": "Hochwertige und präzise Fliesen- und Pflasterarbeiten. Dank jahrelanger Erfahrung und professionellem Ansatz sind wir bereit, Ihr Projekt zu realisieren — ob Bad, Wohnraum oder Terrasse.",
+    "s3_title": "Fassadenarbeiten",
+    "s3_desc": "Jede von uns erstellte Fassade ist einzigartig. Unsere Spezialität ist energiesparende Wärmedämmung, die die Wärmeeigenschaften des Gebäudes verbessert, Heizkosten senkt und den Komfort erhöht.",
+    "learn_more": "Mehr erfahren",
+    "s4_title": "Elektroinstallation",
+    "s4_desc": "Wir führen Elektroinstallationsarbeiten mit maximaler Sicherheit und Präzision durch. Wir sorgen auch für elegante Designlösungen, die sich perfekt in Ihr Interieur einfügen.",
+    "s5_title": "Sanitärinstallation",
+    "s5_desc": "Wir installieren Wasserleitungssysteme mit Schwerpunkt auf Energieeffizienz. Durch innovative Wassermanagementlösungen senken wir Ihre Kosten erheblich und garantieren einen zuverlässigen Betrieb.",
+    "s6_title": "Heizung",
+    "s6_desc": "Unsere Heizsysteme sind für maximale Langlebigkeit und Effizienz ausgelegt. Wir verwenden modernste Technologien, die den Energieverbrauch minimieren und gleichzeitig die optimale Temperatur aufrechterhalten.",
+    "view_all": "Alle unsere Leistungen",
+    "back": "Zurück zur Startseite"
+  },
+  "whyus": {
+    "subtitle": "Warum wir?",
+    "title": "Professionelle Baulösungen für Ihre Projekte",
+    "r1_num": "01",
+    "r1_title": "Erfahrenes Team",
+    "r1_desc": "Ein Team ausschließlich erfahrener Fachleute mit langjähriger Praxis. Jedes Projekt übergeben Sie in die Hände echter Experten.",
+    "r2_num": "02",
+    "r2_title": "Qualitätsgarantie",
+    "r2_desc": "Jede unserer Arbeiten ist durch eine Qualitäts- und Kundenzufriedenheitsgarantie untermauert. Wir verwenden nur bewährte Materialien und Technologien.",
+    "r3_num": "03",
+    "r3_title": "Termintreue",
+    "r3_desc": "Wir liefern Arbeiten stets zum vereinbarten Termin ab. Ihre Zeit hat für uns Priorität, und Arbeit ohne unnötige Verzögerungen ist unser Standard."
+  },
+  "stats": {
+    "years": "Jahre auf dem Markt",
+    "projects": "Abgeschlossene Projekte",
+    "clients": "Zufriedene Kunden",
+    "workers": "Qualifizierte Mitarbeiter"
+  },
+  "gallery": {
+    "subtitle": "Unsere Projekte",
+    "title": "Fotos zeigen unsere echten Arbeiten",
+    "view_all": "Alle Fotos anzeigen",
+    "back": "Zurück zur Startseite"
+  },
+  "cta": {
+    "title": "Benötigen Sie schlüsselfertige Bauleistungen?",
+    "button": "Kontakt aufnehmen"
+  },
+  "contact": {
+    "subtitle": "Kontaktieren Sie uns",
+    "title": "Kontaktieren Sie uns",
+    "address_label": "Adresse",
+    "address": "Korunní 2569/108, Vinohrady (Praha 10), 101 00 Prag",
+    "phone_label": "Telefon",
+    "email_label": "E-Mail",
+    "hours_label": "Arbeitszeiten",
+    "hours": "Montag – Freitag: 7:00 – 17:00",
+    "back": "Zurück zur Startseite",
+    "form_title": "Schreiben Sie uns",
+    "form_name_label": "Ihr Name",
+    "form_name_placeholder": "Max Mustermann",
+    "form_email_label": "E-Mail",
+    "form_email_placeholder": "max@beispiel.de",
+    "form_phone_label": "Telefon",
+    "form_phone_placeholder": "+420 000 000 000",
+    "form_message_label": "Nachricht",
+    "form_message_placeholder": "Erzählen Sie uns von Ihrem Projekt...",
+    "form_submit": "Nachricht senden",
+    "form_success": "Vielen Dank! Wir melden uns so bald wie möglich bei Ihnen.",
+    "form_contact_required": "Bitte geben Sie mindestens eine E-Mail-Adresse oder Telefonnummer an."
+  },
+  "footer": {
+    "tagline": "Ihr zuverlässiger Baupartner in Prag und der Region.",
+    "company_title": "Unternehmen",
+    "services_title": "Leistungen",
+    "contact_title": "Kontakt",
+    "copyright": "© 2026 LELE STAV s.r.o. Alle Rechte vorbehalten.",
+    "terms": "AGB",
+    "privacy": "Datenschutz",
+    "s1": "Bau von A bis Z",
+    "s2": "Fliesen & Pflaster",
+    "s3": "Fassadenarbeiten",
+    "s4": "Trockenbau",
+    "s5": "Elektroinstallation",
+    "s6": "Renovierung"
+  }
+}
